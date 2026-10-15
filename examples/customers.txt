@@ -1,0 +1,5 @@
+CustomerID	CustomerName	Country
+C001	Alice	USA
+C002	Bob	Canada
+C003	Charlie	UK
+C004	Diana	Australia
